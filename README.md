@@ -42,12 +42,8 @@ Additionally, end-users are able to make any number-variations of associations b
 This app was developed and built, to enable the end-user to manage their eCommerce Back End. 
 With the focus in allowing the end-user to create associations between all of your categories, products and tags.
 
-[![eCommerce Back End Demo](https://img.youtube.com)](https://youtu.be/)
+[![window_Shopper: eCommerce Back End Demo](https://img.youtube.com/vi/C5g058yJOcc/sddefault.jpg)](https://youtu.be/C5g058yJOcc?si=f81qH3Zc30kAi-eU)
 >Click the image to be taken to this app's demo video on youtube
-
-## License
-
-This project is under the license of MIT.
 
 ## Questions
 
